@@ -8,6 +8,15 @@
          "Main_Article_Headline":"5 tips for caregivers dealing with burnout",
          "Main_Article_Blurb":"Learn to recognize the signs of burnout early on — and take action before you feel completely spent.",
          "Main_Article_Link":"www.care.com/c/stories/15496/how-to-deal-with-caregiver-burnout/?rx=email|provider_newsletter15496|{{campaignName}}|{{now format='yyyyMMdd'}}"
+      },
+      { 
+         "Recipient_Group":"SEEKER",
+         "Subject_Line":"Caregiver burnout is real. Here's what you can do about it.",
+         "Preview_Text":"Plus, how to start great conversations with kids of all ages.",
+         "Main_Image_URL":"https://static.iterable.com/b9357a8471d64e26abf98b9bd864b36d/20-01-21-Caregiver-Burnout.png",
+         "Main_Article_Headline":"seeer headline burnout",
+         "Main_Article_Blurb":"Seeker Blurb you feel completely spent.",
+         "Main_Article_Link":"www.care.com/c/stories/15496/how-to-deal-with-caregiver-burnout/?rx=email|provider_newsletter15496|{{campaignName}}|{{now format='yyyyMMdd'}}"
       }
    ]
 }
